@@ -1,2 +1,7 @@
 # common-jstest
-Testing:
+Testing Javascript ES6+:
+-NPM
+-Webpack
+-Babel
+-dev-server
+-Common-JS
